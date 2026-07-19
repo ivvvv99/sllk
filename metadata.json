@@ -1,0 +1,6 @@
+{
+  "name": "OmniChat",
+  "description": "A high-fidelity global chat room featuring WebRTC video/audio calling, Cloudinary storage, typing indicators, and comprehensive Admin/Mod tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
